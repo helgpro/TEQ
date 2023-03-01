@@ -1,0 +1,49 @@
+Station ID: kaza  Session #: 126-0     May  5, 2020 00:00
+Reference Position - NOT SPECIFIED:
+Lat.  = 41:23'05.776" N  Long. =  73:56'36.650" E  Height = 1410.0  [meters]
+Antenna height   =  0.1705  [meters]  (entered in the field in meters)
+Long station name:  NtRSkaza
+
+Receiver serial # = 457176111
+Antenna serial  # = 30895097  (entered in the office)
+NP Software = 1.32     SP Software = 0.00     Download Software = 3.11.01
+
+Survey schedule:  UNSPECIFIED
+Data-logging start time = 00:00
+Data-logging stop  time = 23:59
+
+Tracking   SV  1  SV  2  SV  3  SV  4  SV  5  SV  6  SV  7  SV  8  SV  9  SV 10
+total L1    1048    855   1002    830    990    925    850   1023    891    870
+cont  L1     555    836    442    490    679    710    826    601    633    869
+total L2    1046    853    993    829    988    917    850   1020    881    870
+cont  L2     554    815    442    488    679    689    826    587    632    869
+
+Tracking   SV 11  SV 12  SV 13  SV 14  SV 15  SV 16  SV 17  SV 18  SV 19  SV 20
+total L1    1047    926   1052    877   1011   1011    844    848    841    869
+cont  L1     518    703    517    819    616    438    797    847    829    868
+total L2    1036    924   1042    869   1009   1006    842    844    834    868
+cont  L2     500    702    515    803    613    433    795    844    827    862
+
+Tracking   SV 21  SV 22  SV 23  SV 24  SV 25  SV 26  SV 27  SV 28  SV 29  SV 30
+total L1     862    951     19   1052   1021   1023   1049    892    789    814
+cont  L1     861    585      8    553    628    391    525    881    774    797
+total L2     857    935     17   1051   1021   1022   1048    888    789    813
+cont  L2     846    585      7    553    626    391    525    874    774    797
+
+Tracking   SV 31  SV 32
+total L1     899    846
+cont  L1     603    824
+total L2     890    845
+cont  L2     603    819
+
+SV Selection mode = AUTOMATIC
+Elevation mask    =  0     [degrees]   Minimum # of SVs  =  0
+Survey sync rate  = 30.0   [sec]
+
+3D Position      Best PDOP Position [ 1.1]     Mean Position [1440]
+Latitude:         41:23'05.85618" N             41:23'05.80364" N
+Longitude:        73:56'36.68925" E             73:56'36.65374" E
+Height [m]:               1409.0                        1409.0
+
+2D Position      Position not available
+

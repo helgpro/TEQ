@@ -1,0 +1,79 @@
+макет: заголовок страницы: "GetWTEC"
+Программное обеспечение для расчета индекса Wtec. Wtec – региональное возмущение ПЭС, равное средней амплитуде вариаций ПЭС (с периодами меньше заданных) для одного пункта GPS/ГЛОНАСС. Возможна многосайтовая обработка: программа рассчитывает соответствующий индекс для каждого сайта. Максимальная продолжительность серии Wtec составляет один год.
+
+Монтаж
+Просто скачайте и распакуйте архив GetWTEC куда хотите (только для Windows).
+
+Загрузки
+[Windows]({{ "/assets/GetWTEC.zip" | absolute_url }})
+Файлы и каталоги, включенные в программный пакет
+Исполняемый файл ( GetWTEC.exe)
+Файл конфигурации ( GetWTEC.dia)
+Автоматически созданные служебные каталоги ( out, genout).
+Применение
+GetWTEC использует выходные файлы [tec-suite]({{ "/tec-suite" | absolute_url }}) в качестве входных данных. Эти файлы должны содержать следующие данные:
+
+тсн
+Эль
+аз
+тек.l1l2
+Для получения дополнительной информации см . документацию по tec-suite .
+
+Получив [tec-suite]({{ "/tec-suite" | absolute_url }}) файлы, вы можете
+
+РедактироватьGetWTEC.dia
+БежатьGetWTEC.exe
+ПолучитьWTEC.dia
+e:\gps\dat\   	- datway (path to dat-files)
+0  	  - crit_all =1 (processing of all sites)
+LIST 	  - site (site name (if crit_all =0))
+2016 	  - year
+1  	  - daybeg (the first of the processed days)
+366  	  - dayend (the last of the processed days)
+300. 	  - hmax (height for calculating the coordinates of ionospheric points, km)
+10. 	  - highper (window for removing slow variations, minutes)
+15. 	  - gamcutoff (minimum elevation, degrees)
+55  	  - prncutoff (the maximum number of satellites to process)
+0  	  - GNSS_crit =0 (all satellites), =1 (GPS only), =2 (GLONASS only)
+999 	  - GrossDir ("main" direction for processing, if =999 common file only)
+4  	  - NofDirs (number of azimuth sectors (no more than 4))
+Некоторые параметры GetWTEC.diaнуждаются в пояснении:
+
+При crit_all= 1 обрабатываются все сайты, находящиеся в каталоге [datway][year][daybeg]. Если = 0 , обрабатывается crit_allтолько сайт, указанный в параметре.site
+С помощью параметров GrossDirи NofDirsможно указать дополнительные выходные файлы с данными в определенных секторах азимута относительно обрабатываемой станции. NofDirsуказывает количество секторов (не более 4). GrossDirустанавливает направление опорного центра для первого сектора. Если GrossDir= 999, будет выведен только общий файл.
+Выход
+Вы можете найти вывод GetWTEC в каталоге genout\YYYY. Для каждого обрабатываемого сайта создается файл с именем SSSSDDD_DDD_YYYYF_PPmin.dat, где
+
+SSSS(Название сайта)
+DDD_DDD(пределы интервала обрабатываемых дней)
+YYYY(год)
+PP(окно, используемое для удаления медленных вариаций)
+F(указывает, что файл общий для всех азимутов).
+Если GrossDirпараметр установлен в диапазоне 0--360, помимо общего файла для сайта NofDirsбудет создано еще несколько файлов (по значению) с данными, разделенными по азимутальным секторам. Имена таких файлов будут иметь вид SSSSDDD_DDD_YYYYAAA_PPmin.dat (ААА относится к центру азимутального сектора).
+
+Все выходные файлы имеют одинаковую структуру. Первые строки выходного файла могут выглядеть так:
+
+300	- height of F2-layer maximum
+ 10	- high filtering period, minutes
+ 15	- elevation cutoff
+0	 =0 - GPS/GLONASS, =1 - GPS, =2 - GLONASS
+999	- main direction
+  4	- number of directions
+tec_filt_aver - averaged through all prns filtered TEC variations
+rms - root mean square of TEC averaging
+Xaver, Yaver - average position of Ionospheric Pierce Point (km)
+N_of_Sats - number of satellites
+
+time_ut, tec_filt_aver, rms, Xaver, Yaver, N_of_Sats
+   0.0000   0.0000   0.0000   67.570   14.884 11
+   0.0083   0.0000   0.0000   68.378   15.365 11
+   0.0167   0.0056   0.0055   69.187   15.841 11
+Первые 6 строк дублируют значения параметров hmax, highper, gamcutoff, GNSS_crit, GrossDirи NofDirsиз файла GetWTEC.dia.
+
+Следующие 4 строки содержат описание столбцов данных:
+
+time_utотносятся к отсчету времени в часах UT с начала первого дняdaybeg
+tec_filt_averданные Wtec
+rmsразброс данных при усреднении по спутникам
+Xaver, Yaver– отклонения среднего положения точки пробоя ионосферы от места в километрах
+N_of_Satsчисло спутников в среднем.

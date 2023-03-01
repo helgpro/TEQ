@@ -1,0 +1,44 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+dist/
+build/
+_build/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+*.egg-info/
+
+# (python) enviroment folder
+flask/
+env/
+
+# gmt out
+gmt.*
+*.ps
+*.jpg
+*.png
+*.eps
+
+# output files
+.*.dat
+*.dat
+strain_info.dat
+station_info.dat
+
+# temporary test data
+test_data/

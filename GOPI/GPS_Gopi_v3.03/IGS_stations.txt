@@ -1,0 +1,443 @@
+abmf	LES ABYMES                                   	FRANCE                          	298.4725	16.2623	-25	IGN-SGN            
+abpo	Antananarivo                                 	Madagascar                      	47.2292	-19.0183	1552.9923	JPL                
+ade1	Salisbury                                    	Australia                       	138.6473	-34.729	38.2	NGA                
+ade2	Salisbury                                    	Australia                       	138.6473	-34.729	38.2	NGA                
+adis	Addis Ababa                                  	ETHIOPIA                        	38.7663	9.0351	2439.154	BKG                
+aira	Aira                                         	Japan                           	130.5996	31.8241	314.64	GSI                
+ajac	Ajaccio                                      	France                          	8.7626	41.9275	99	IGN                
+albh	Victoria                                     	Canada                          	236.5126	48.3898	32	GSC                
+algo	ALGONQUIN PARK                               	CANADA                          	281.9286	45.9588	202	NRCan              
+alic	Alice Springs                                	Australia                       	133.8855	-23.6701	603.3581	GA                 
+alrt	Alert (Ellesmere Island)                     	Canada                          	297.6595	82.4943	78.11	NRCan/GSD          
+amc2	Colorado Springs                             	U.S.A.                          	255.4754	38.8031	1912.4898	USNO               
+ammn	Amman                                        	Jordan                          	35.88	32.03	1055.83	RJGC               
+ankr	Ankara                                       	Turkey                          	32.7586	39.8875	974.8	BKG and GCM        
+antc	Los Angeles                                  	Chile                           	288.4679	-37.3387	745.4	G2                 
+areq	Arequipa                                     	Peru                            	288.5072	-16.4655	2488.9226	JPL                
+artu	Arti                                         	Russian Federation              	58.5605	56.4298	247.511	RDAAC-IRIS         
+asc1	Ascension Island                            	Ascension Island                	345.5879	-7.9512	105	  JPL                        
+aspa	Pago Pago                                    	U.S.A.                          	189.2776	-14.3261	53.662	NOAA-NGS           
+auck	Whangaparaoa Peninsula                       	New Zealand                     	174.8344	-36.6028	132	GNS                
+azu1	Azusa                                        	USA                             	242.1	34.13	144.75	UNAVCO             
+bahr	Manama                                      	Bahrain                         	50.6081	26.2091	-17.03	  NGA/SNGM                   
+baie	BAIE COMEAU                                  	CANADA                          	291.7367	49.1868	27.48	NRCan/GFZ          
+bake	BAKER LAKE                                   	CANADA                          	263.9977	64.3178	4.41	NRCan              
+bako	Cibinong                                     	Indonesia                       	106.85	-6.49	158.18	BAKOSURTANAL       
+bamf	Bamfield                                     	Canada                          	234.8649	48.8353	11.1	GSC                
+ban2	Bangalore                                    	India                           	77.5116	13.0343	831.9	GFZ                
+barh	Bar Harbor                                   	USA                             	291.7783	44.395	7.4	NOAA-NGS           
+bdos	Bridgetown                                   	Barbados                        	300.3909	13.0879	-38.6	NOAA-NGS           
+bhr1	Manama                                       	Bahrain                         	50.6081	26.2091	-13.9	NGA                
+bhr2	Manama                                       	Bahrain                         	50.6081	26.2091	-13.9	NGA                
+bili	Bilibino                                     	Russian Federation              	166.438	68.0761	456.238	RDAAC-IRIS         
+bill	Temecula                                     	USA                             	242.94	33.58	470.05	UNAVCO             
+bjco	Cotonou                                      	Benin                           	2.45	6.3847	30.6	MCA-Benin          
+bjfs	Fangshan                                     	China                           	115.8925	39.6086	87.413	NGCC               
+blyt	Blythe                                       	USA                             	245.29	33.61	85.9	USGS               
+bogi	Borowa Gora                                  	Poland                          	21.0352	52.475	139.9	IGiK               
+bogt	Bogota                                       	Colombia                        	285.9191	4.6401	2576.7782	JPL                
+bor1	Borowiec                                     	Poland                          	17.0668	52.1002	124	SRC PAS            
+bran	Burbank                                      	USA                             	241.72	34.18	246.25	USGS               
+braz	Brasilia                                     	Brazil                          	312.1222	-15.9474	1106.0413	DGFI               
+brew	Brewster                                     	USA                             	240.3174	48.1315	238.6273	JPL                
+brft	Eusebio                                      	Brazil                          	321.5745	-3.8774	21.7	NOAA-NGS           
+brmu	Bermuda                                      	UK                              	295.3037	32.3704	-11.612	NOAA-NGS           
+brst	Brest                                        	France                          	355.5034	48.3805	65.8	IGN                
+brus	Brussels                                     	Belgium                         	4.3592	50.7978	149.7	ROB                
+bucu	Bucuresti                                    	Romania                         	26.1257	44.4639	143.2	BKG                
+bue1	San Martin                                   	Argentina                       	301.4807	-34.5737	48.8	NGA                
+bue2	San Martin                                   	Argentina                       	301.4807	-34.5737	48.8	NGA                
+bzrg	Bolzano - Bozen                              	Italy                           	11.3368	46.499	328.8	GpsBZ              
+cagl	Cagliari                                     	Italy                           	8.9728	39.1359	238.4	ASI                
+cags	Gatineau                                     	Canada                          	284.1927	45.585	235	NRCan/GSD          
+cagz	Capoterra                                    	Italy                           	8.9728	39.1359	238	DISIG-Cagliari     
+cas1	Casey                                        	Antarctica                      	110.5197	-66.2834	22.55	GA                 
+casa	Mammoth Lakes                                	USA                             	241.1034	37.6446	2390.4416	LVO                
+cat1	Catalina                                    	USA                             	241.52	33.45	3.88	  USGS                       
+ccj2	Ogasawara                                    	Japan                           	142.195	27.0675	104.214	GSI                
+ccjm	Ogasawara                                    	Japan                           	142.1846	27.0956	208.83	GSI                
+cedu	Ceduna                                       	Australia                       	133.8098	-31.8667	144.8021	GA                 
+cfag	Caucete                                      	Argentina                       	291.7674	-31.6022	703	CERI               
+chan	CHANGCHUN                                    	CHINA                           	125.4433	43.7905	268.3	CHO                
+chat	Waitangi                                     	New Zealand                     	183.4342	-43.9558	58	GNS                
+chil	San Gabriel Mountains                        	USA                             	241.97	34.33	1567.52	USGS               
+chpi	Cachoeira Paulista                           	Brazil                          	315.0148	-22.6871	617.4176	JPL                
+chti	Wharekauri                                   	New Zealand                     	183.3829	-43.7355	75.7	GNS                
+chum	Chumysh                                      	Kazakhstan                      	74.7511	42.9985	716.3321	JPL                
+chur	CHURCHILL                                    	CANADA                          	265.9113	58.7591	-18.9	NRCan              
+chwk	Chilliwack                                   	Canada                          	237.9916	49.1566	170	GSC                
+cic1	Ensenada                                     	Mexico                          	243.3342	31.8707	64.3245	JPL                
+cit1	Pasadena                                     	USA                             	241.87	34.14	215.36	USGS               
+clar	Claremont                                    	USA                             	242.29	34.11	373.64	USGS               
+cmp9	Sylmar                                       	USA                             	241.59	34.35	1138.02	USGS               
+cnmr	Saipan                                       	USA                             	145.7431	15.2297	64.399	NOAA-NGS           
+coco	Cocos (Keeling) Island                       	Australia                       	96.8339	-12.1883	-35.2212	GA                 
+cont	Concepcion                                   	Chile                           	286.975	-36.8428	200.027	BKG                
+conz	Concepcion                                   	Chile                           	286.9745	-36.8438	181.2	BKG                
+copo	Copiapo                                      	Chile                           	289.6618	-27.3845	479.2	G2                 
+cord	Cordoba                                     	Argentina                       	295.53	-31.5284	747.0654	  JPL                        
+coso	Coso Junction                                	USA                             	242.1911	35.9823	1455.1622	USGS               
+coyq	Coyhaique                                    	Chile                           	288.1079	-45.5143	476	G2                 
+crao	Simeiz                                       	Ukraine                         	33.991	44.4133	365.8	UNAVCO             
+crfp	Yucaipa                                      	USA                             	242.9	34.04	688.83	USGS               
+cro1	Christiansted                                	U.S. Virgin Islands (USA)       	295.4157	17.7569	-31.9558	JPL                
+csn1	Northridge                                   	USA                             	241.48	34.25	261.44	USGS               
+cusv	Patumwan                                     	Thailand                        	100.5339	13.7359	76.06	DUT                
+daej	Daejeon                                      	Korea                           	127.3745	36.3994	117.037	KASI               
+daka	Dakar                                        	Senegal                         	342.5352	14.685	63.1	GFZ                
+darr	Darwin                                       	Australia                       	131.1327	-12.8438	125.197	GA                 
+darw	Darwin                                       	Australia                       	131.1327	-12.8437	125.1965	GA                 
+dav1	Davis                                        	Antarctica                      	77.9726	-68.5773	44.5	GA                 
+dgar	Diego Garcia Island                          	U.K. Territory                  	72.3702	-7.2697	-64.7455	JPL                
+dgav	Diego Garcia Island                          	U.K. Territory                  	72.3702	-7.2697	-64.7455	JPL                
+dhlg	Durmid Hill                                  	USA                             	244.21	33.39	-83.05	USGS               
+dlft	Delft                                        	Netherlands                     	4.3876	51.986	74.3	TUD/DEOS           
+drag	Metzoki dragot                               	Israel                          	35.3924	31.5929	120.3	GSM                
+drao	Penticton                                    	Canada                          	240.375	49.3226	542	GSC                
+dubo	LAC DU BONNET                                	CANADA                          	264.1338	50.2588	251	NRCan              
+dubr	Dubrovnik                                    	Croatia                         	18.1104	42.65	454.3	CGI                
+dum1	"Antarctic base of ""Dumont d'Urville""         "	Antarctica                      	140.0019	-66.6651	-1.4	ENS/CNRS           
+dund	Dunedin                                      	New Zealand                     	170.5972	-45.8837	389	GNS                
+dyr2	Diyarbakir                                   	Turkey                          	40.2764	37.9157	500	UNV-JPL-GCM        
+ebre	Roquetes                                     	Spain                           	0.4924	40.8209	107.9	ICC                
+eil1	Fairbanks                                    	USA                             	212.887	64.6879	176.6	NGA                
+eil2	Fairbanks                                    	USA                             	212.887	64.6879	176.6	NGA                
+eprt	Eastport                                     	USA                             	293.0079	44.9087	30.988	NOAA-NGS           
+escu	Escuminac                                    	Canada                          	295.2013	47.0734	-16.02	NRCan/GSD          
+esti	Esteli                                      	Nicaragua                       	273.6379	13.0995	852.67	  INETER                     
+faa1	Faaa                                         	"Tahiti, French Polynesia        "	210.3857	-17.5553	12.35	ESOC               
+fair	Fairbanks                                    	USA                             	212.5008	64.978	319.1771	JPL                
+fale	Faleolo                                      	Samoa                           	188.0005	-13.8322	48	GNS                
+falk	Port Stanley                                 	Falkland Islands                	302.1259	-51.6937	50.8407	JPL                
+ffmj	Frankfurt / Main                             	Germany                         	8.665	50.0906	178.2	BKG                
+flin	CFS FLIN FLON                                	CANADA                          	258.022	54.7256	320	NRCan              
+flrs	Santa Cruz das Flores                        	Portugal                        	328.8736	39.4538	79.9	IGP                
+func	Funchal                                      	Portugal                        	343.0924	32.6479	78.5	IGP                
+ganp	Ganovce                                      	Slovakia                        	20.3229	49.0347	745.2	GKU                
+geno	Genova                                       	Italy                           	8.9211	44.4194	137	ASI                
+glps	Puerto Ayora                                 	Ecuador                         	269.6963	-0.743	1.7946	JPL                
+glsv	Kiev                                         	Ukraine                         	30.4967	50.3642	226.8	MAO                
+gmas	Maspalomas                                   	Spain                           	344.5324	27.7648	195.4	JAXA               
+gmsd	Nakatane town                                	Japan                           	131.0156	30.5564	142.3645	JAXA               
+gode	Greenbelt                                    	USA                             	283.1732	39.0217	14.5046	JPL                
+godz	Greenbelt                                    	USA                             	283.1732	39.0217	14.509	JPL                
+gol2	Goldstone                                    	USA                             	243.1107	35.4252	986.6779	JPL                
+gold	Goldstone                                    	USA                             	243.1107	35.4252	986.6779	JPL                
+gope	Ondrejov                                     	Czech Republic                  	14.7856	49.9137	592.6	RIGTC GOP          
+goug	Gough Island                                 	dependent territory of the U.K. 	350.1333	-40.3488	81.3	AWI                
+gras	Caussols                                     	France                          	6.9206	43.7547	1320.3	CNES               
+graz	Graz                                         	Austria                         	15.4935	47.0671	538.3	BEV                
+guam	Dededo                                       	Guam                            	144.8683	13.5893	201.922	JPL                
+guao	URUMQI                                       	CHINA                           	87.1773	43.4711	2049.2	UAO                
+guat	Guatemala City                               	Guatemala                       	269.4798	14.5904	1519.868	IGN-GT             
+guug	Mangilao                                     	USA                             	144.8027	13.4332	134.71	NOAA-NGS           
+haly	Halat Ammar                                  	Saudi Arabia                    	36.0999	29.1389	861.6765	MIT                
+harb	Pretoria                                     	Republic of South Africa        	27.7075	-25.8869	1555	CNES               
+harv	Vandenberg AFB                               	USA                             	239.3179	34.4694	14.9941	JPL                
+hers	Hailsham                                     	United Kingdom                  	0.3362	50.8673	76.5	NSGF               
+hert	Hailsham                                     	United Kingdom                  	0.3344	50.8675	83.3	NSGF               
+hflk	Innsbruck                                   	Austria                         	11.3861	47.3129	2383	  BEV                        
+hilo	Hilo                                        	USA                             	204.9473	19.7192	29	  PGF                        
+hlfx	HALIFAX                                      	CANADA                          	296.3887	44.6835	3.1	NRCan/GFZ          
+hnlc	Honolulu                                     	USA                             	202.1355	21.3033	22	PGPSF              
+hnpt	Cambridge                                    	USA                             	283.869	38.588	-27.4	NOAA-NGS           
+hob2	Hobart                                       	Australia                       	147.4387	-42.8047	41.127	GA                 
+hofn	Hoefn                                        	Iceland                         	344.8132	64.2673	82.5	BKG                
+holb	Holberg                                      	Canada                          	231.865	50.6404	560	GSC                
+holc	Pearblossom                                 	USA                             	242.15	34.46	1238.16	  USGS                       
+holm	"Ulukhaktok, formerly Holman (Victoria Island)"	Canada                          	242.2391	70.7364	39.5	NRCan/GSD          
+holp	Hollydale                                    	USA                             	241.8318	33.9245	-6.7077	USGS               
+hrao	Krugersdorp                                  	South Africa                    	27.687	-25.8901	1414.3	HRAO               
+hrm1	Hermitage                                    	United Kingdom                  	358.7161	51.4537	163.1	NGA                
+hrm2	Hermitage                                    	United Kingdom                  	358.7161	51.4537	163.1	NGA                
+hueg	Huegelheim                                   	Germany                         	7.5962	47.8339	278.4	BKG                
+hyde	Hyderabad (located in central part of India) 	INDIA                           	78.5509	17.4173	441.68	"NGRI,HYDERABAD     "
+ieng	Torino                                       	Italy                           	7.6394	45.0151	316.6	I.N.RI.M.          
+iisc	Bangalore                                    	India                           	77.5704	13.0212	843.7145	JPL                
+ineg	Aguascalientes                               	Mexico                          	257.7158	21.8562	1888.347	INEGI              
+invk	Inuvik                                       	Canada                          	226.473	68.3062	46.36	NRCan/GSD          
+iqal	Iqaluit                                      	CANADA                          	291.4895	63.756	91.7	NRCan              
+iqqe	Iquique                                      	Chile                           	289.8683	-20.2735	38.9	G2                 
+irkj	Irkutsk                                      	RUSSIA                          	104.3162	52.219	502.1	VNIIFTRI           
+irkm	Irkutsk                                      	Russia                          	104.3162	52.219	502.317	RDAAC-IMVP-JPL-LDEO
+irkt	Irkutsk                                      	Russia                          	104.3162	52.219	503.3816	DEOS-DUT           
+isba	Palestine Street                             	Iraq                            	44.4384	33.3414	72.3	IRAGDS             
+ispa	Easter Island                                	Chile                           	250.6556	-27.125	112.4948	JPL                
+ista	Istanbul                                     	Turkey                          	29.0193	41.1044	147.2	BKG                
+jab1	Jabiru                                       	Australia                       	132.8939	-12.6588	82.114	GA                 
+joz2	Jozefoslaw                                   	Poland                          	21.0323	52.0978	152.5	WUT                
+joze	Jozefoslaw                                   	Poland                          	21.0315	52.0973	141.4	WUT                
+jplm	Pasadena                                     	USA                             	241.8268	34.2048	423.9843	JPL                
+karr	Karratha                                     	Australia                       	117.0972	-20.9814	109.2468	GA                 
+kely	Kangerlussuaq                                	Greenland                       	309.0552	66.9874	229.8	JPL                
+kerg	Port aux Francais                            	Kerguelen Islands               	70.2555	-49.3515	74.0583	CNES               
+kgni	KOGANEI                                      	JAPAN                           	139.4881	35.7103	123.5	RAAG-KSRC          
+khaj	Khabarovsk                                   	RUSSIA                          	135.0462	48.5215	130.6	VNIIFTRI           
+khar	Kharkiv                                      	Ukraine                         	36.239	50.0051	201	MAO                
+kir0	Kiruna                                       	Sweden                          	21.0602	67.8776	497.9	LMV                
+kiru	Kiruna                                       	Sweden                          	20.9684	67.8573	391.1	ESOC               
+kit3	Kitab                                        	Uzbekistan                      	66.88	39.14	643	GFZ Potsdam        
+kokb	"Kokee Park, Waimea,                          "	USA                             	200.3351	22.1263	1167.5216	JPL                
+kokv	"Kokee Park, Waimea,                          "	USA                             	200.3351	22.1263	1167.5216	JPL                
+kosg	Kootwijk                                     	Netherlands                     	5.8096	52.1784	97.9	DUT                
+kouc	Koumac                                       	New Caledonia                   	164.2873	-20.5587	84	DITTT              
+kour	Kourou                                       	French Guyana                   	307.194	5.2522	-25.57	ESOC               
+ksmv	KASHIMA                                      	JAPAN                           	140.6577	35.9554	57.9	RAAG-KSRC          
+kstu	Krasnoyarsk                                  	Russia                          	92.79	55.99	210	GFZ                
+kunm	Kunming                                      	China                           	102.7972	25.0295	1986.2	JPL                
+kuuj	KUUJJUARAPIK                                 	CANADA                          	282.2546	55.2784	-0.5	NRCan/GFZ          
+kwj1	Kwajalein Atoll                              	Marshall Islands                	167.7302	8.7222	38	JPL                
+lae1	Lae                                          	Papua New Guinea                	146.9932	-6.6737	140.35	DSLS               
+lama	Olsztyn                                      	Poland                          	20.6699	53.8924	187	UWM_OLSZTYN        
+lbch	Long Beach                                   	USA                             	241.8	33.79	-27.56	USGS               
+leep	Hollywood                                    	USA                             	241.6782	34.1346	485.0517	USGS               
+leij	Leipzig                                      	Germany                         	12.3741	51.354	178.4	BKG                
+lhas	LHASA                                        	China                           	91.104	29.6573	3622	BKG                
+lhaz	Lhasa                                        	China                           	91.104	29.6573	3622	BKG                
+lmmf	LE LAMENTIN                                  	FRANCE                          	299.0038	14.5948	-26.969	IGN-SGN            
+long	Irwindale                                    	USA                             	242	34.11	74.29	USGS               
+lpal	Roque de los Muchachos                       	Spain                           	342.1061	28.7639	2207	IGN-E              
+lpgs	La Plata                                     	Argentina                       	302.0677	-34.9067	29.9	GFZ                
+lroc	La Rochelle                                  	France                          	358.7807	46.1589	57.9	CLDG               
+mac1	"MacQuarie Island, Sub-Antarctic              "	Southern Ocean                  	158.9358	-54.4995	-6.69	GA                 
+mad2	Robledo                                      	Spain                           	355.7503	40.4292	829.5	JPL                
+madr	Robledo                                      	Spain                           	355.7503	40.4292	829.5	JPL                
+mag0	Magadan                                      	Russian Federation              	150.77	59.5758	361.9266	RDAAC-IRIS         
+mal2	Malindi                                      	Kenya                           	40.194	-2.996	-20.4	ESOC               
+mald	Male Airport                                 	Republic of Maldives            	73.5263	4.1887	-92	PGPSF              
+mali	Malindi                                     	Kenya                           	40.1944	-2.9959	22.72	  ESOC                       
+mana	Managua                                      	Nicaragua                       	273.7513	12.1491	170	INETER             
+mar6	Maartsbo                                     	Sweden                          	17.2585	60.5951	75.4	LMV                
+mars	Marseille                                    	France                          	5.3538	43.2788	61.8	IGN                
+mas1	Maspalomas                                   	Spain                           	344.3667	27.7637	197.3	ESOC               
+mat1	MATERA                                       	ITALY                           	16.7045	40.6491	534.5	ASI                
+mate	Matera                                       	Italy                           	16.7045	40.6491	535.6	ASI                
+maui	"Haleakala, Maui                              "	USA                             	203.743	20.7067	3062	PGPSF              
+maw1	Mawson                                       	Antarctica                      	62.8707	-67.6048	59.184	GA                 
+mbar	Mbarara                                      	Uganda                          	30.7379	-0.6015	1337.6533	JPL                
+mcil	Ogasawara                                    	Japan                           	153.9787	24.2901	35.66	GSI                
+mcm4	Ross Island                                  	Antarctica                      	166.6693	-77.8383	98.0222	JPL                
+mdo1	Fort Davis                                   	USA                             	255.985	30.6805	2004.4761	JPL                
+mdvj	Mendeleevo                                   	Russian Federation              	37.2145	56.0215	257.4	IMVP               
+mdvo	"Mendeleevo, Moscow Region                    "	Russia                          	37.2236	56.0275	254.8	DEOS-DUT           
+medi	Medicina                                     	Italy                           	11.6468	44.5199	50	ASI                
+mets	Kirkkonummi                                  	Finland                         	24.3953	60.2175	94.6	FGI                
+metz	Kirkkonummi (40 km west from Helsinki)       	Finland                         	24.3953	60.2175	94.5	FGI                
+mikl	Mykolaiv                                     	Ukraine                         	31.9728	46.9728	94.7	RIGC               
+mizu	Mizusawa                                     	Japan                           	141.1328	39.1352	117	GFZ                
+mkea	Mauna Kea                                    	USA                             	204.5437	19.8014	3755	JPL                
+mobj	Obninsk                                      	Russian Federation              	36.5697	55.1149	182.6079	GS RAS             
+mobk	Obninsk                                      	Russian Federation              	36.5697	55.1149	182.6079	JPL                
+mobn	Obninsk                                      	Russian Federation              	36.5695	55.1149	182.634	RDAAC-JPL-IRIS     
+mobs	Melbourne                                    	Australia                       	144.9753	-37.8294	40	GA                 
+monp	Laguna Mountains                             	USA                             	243.58	32.89	1842.52	SIO                
+morp	Morpeth                                      	United Kingdom                  	358.3145	55.2128	144.4	NCL                
+mqzg	Christchurch                                 	New Zealand                     	172.6547	-43.7027	154.68	GNS                
+msku	Franceville                                  	Gabon                           	13.552	-1.6312	387	JPL                
+mtbg	Mattersburg                                  	Austria                         	16.4043	47.7379	294	BEWAG              
+mtka	Mitaka                                       	Japan                           	139.5614	35.6795	109	ENRI               
+nain	Nain                                         	Canada                          	298.3113	56.537	33.48	NRCan/GSD          
+nama	Namas                                        	Saudi Arabia                    	42.0446	19.2114	2703.2212	MIT                
+nano	Nanoose Bay                                  	Canada                          	235.9135	49.2948	6	GSC                
+nico	Nicosia                                      	Cyprus                          	33.3964	35.1409	155	BKG                
+nist	Boulder                                      	USA                             	254.7374	39.9951	1648.488	NIST               
+nisu	Boulder                                     	USA                             	254.7378	39.9954	1653.9	  NIST                       
+nium	Alofi                                        	Niue                            	190.0729	-19.0766	90.1	GNS                
+nklg	Libreville                                   	Gabon                           	9.6721	0.3539	31.48	CNES               
+nlib	North Liberty                                	USA                             	268.4251	41.7716	207.0648	JPL                
+nnor	New Norcia                                   	Australia                       	116.1927	-31.0487	234.984	ESOC               
+not1	Noto                                         	Italy                           	14.9898	36.8761	126.2	ASI                
+novm	Novosibirsk                                  	RUSSIA                          	82.9095	55.0305	149.98	IMVP               
+npld	Teddington                                   	United Kingdom                  	359.6604	51.421	72.7	NPL                
+nrc1	OTTAWA                                       	CANADA                          	284.3762	45.4542	82.48	NRCan/GSD          
+nril	Norilsk                                      	Russian Federation              	88.3598	69.3618	47.8937	CMIS               
+nrl1	Washington                                   	U.S.A.                          	282.9756	38.8208	-26.01	NRL                
+nrmd	NOUMEA                                       	FRANCE                          	166.4849	-22.2283	160.38	DITTT              
+nssp	Yerevan                                      	Republic of Armenia             	44.5029	40.2265	1194.7548	JPL                
+ntus	Singapore                                    	Republic of Singapore           	103.6799	1.3458	79	DUT                
+nurk	Kigali                                       	Ruanda                          	30.0899	-1.9446	1485.3	GFZ                
+nvsk	Novosibirsk                                  	Russia                          	83.2355	54.8406	123.6429	IPGG SB RAS        
+nya1	Ny-Alesund                                   	Norway                          	11.8653	78.9296	84	Kartverket         
+nyal	Ny-Alesund                                   	Norway                          	11.87	78.93	82	NMA                
+obe2	Oberpfaffenhofen                             	Germany                         	11.3	48.1	651	GFZ Potsdam        
+ohi2	O'Higgins                                    	Antarctic Peninsula             	302.0987	-63.3211	33.1	BKG                
+ohi3	O'Higgins                                    	Antarctic Peninsula             	302.0986	-63.3211	32.15	BKG                
+onsa	Onsala                                       	Sweden                          	11.9255	57.3953	45.5	LMV                
+opmt	Paris                                        	France                          	2.3349	48.8359	124.2	OP                 
+orid	Ohrid                                        	Macedonia                       	20.7941	41.1273	773	BKG                
+osje	Osijek                                       	Croatia                         	18.6805	45.5608	153.9	CGI                
+osn1	Osan                                         	South Korea                     	127.024	37.0776	48.9	NGA                
+osn2	Osan                                         	South Korea                     	127.024	37.0776	48.9	NGA                
+ous2	Dunedin                                      	New Zealand                     	170.5109	-45.8695	26.1	GFZ-OU             
+pado	Padova                                       	Italy                           	11.8961	45.4112	64.7	UNIPD              
+palm	Palmer Station                               	Antarctica                      	295.9489	-64.7751	31.2394	JPL                
+parc	Punta Arenas                                 	Chile                           	289.1201	-53.137	22	G2                 
+park	Parkes                                       	Australia                       	148.2646	-32.9988	397.4	GA                 
+pdel	Ponta Delgada                                	Portugal                        	334.3372	37.7477	110.8	IGP                
+penc	Penc                                         	Hungary                         	19.2815	47.7896	291.7	FÖMI SGO           
+pert	Perth                                        	Australia                       	115.8852	-31.8019	12.92	ESOC               
+petp	Petropavlovsk-Kamchatka                      	Russian Federation              	158.607	53.0667	211.0343	KOMSP              
+pets	Petropavlovsk-Kamchatka                      	Russian Federation              	158.6501	53.0233	102.2	KOMSP              
+picl	PICKLE LAKE                                  	CANADA                          	269.838	51.4798	315.1	NRCan/GFZ          
+pie1	Pie Town                                     	USA                             	251.8811	34.3015	2347.7109	JPL                
+pimo	Quezon City                                  	Philippines                     	121.0777	14.6357	95.532	JPL                
+pin1	Pinyon Flat                                  	USA                             	243.54	33.61	1256.17	SIO                
+pol2	Bishkek                                      	Kyrghyzstan                     	74.6943	42.6798	1714.2	JPL                
+polv	Poltava                                      	Ukraine                         	34.5429	49.6026	178.1	RIGC               
+pots	Potsdam                                      	Germany                         	13.07	52.38	174	GFZ                
+pove	Porto Velho                                  	Brasil                          	296.1037	-8.7093	119.6	IBGE               
+prds	CALGARY                                      	CANADA                          	245.7065	50.8713	1247	NRCan              
+pre1	Pretoria                                     	South Africa                    	28.224	-25.7463	1416.4	NGA                
+pre2	Pretoria                                     	South Africa                    	28.224	-25.7463	1416.4	NGA                
+ptbb	Braunschweig                                 	Germany                         	10.4597	52.2962	130.2	BKG                
+qaq1	Qaqortoq / Julianehaab                       	Greenland (Denmark)             	313.9522	60.7152	110.4	DNSC               
+qiki	Qikiqtarjuaq (Baffin Island)                 	Canada                          	295.9663	67.5593	13.3	NRCan/GSD          
+qui1	Quito                                        	Ecuador                         	281.5064	-0.2152	2922.6	NGA                
+qui2	Quito                                        	Ecuador                         	281.5064	-0.2152	2922.6	NGA                
+quin	Quincy                                       	USA                             	239.0556	39.9746	1105.7651	JPL                
+rabt	Rabat                                        	Morocco                         	353.1457	33.9981	90.1	UNAVCO             
+ramo	Mitzpe Ramon                                 	Israel                          	34.7631	30.5978	893.1	GSM                
+rbay	Richardsbay                                  	South Africa                    	32.0784	-28.7955	31.7927	HRAO               
+rcmn	NAIROBI                                      	KENYA                           	36.8938	-1.221	1607.54	RCMRD              
+recf	Recife                                       	Brasil                          	325.0485	-8.051	20.2	IBGE               
+reso	Resolute (Cornwallis Island)                 	Canada                          	265.1067	74.6908	34.9	NRCan/GSD          
+reun	Le Tampon                                    	France                          	55.5717	-21.2083	1558.4	IGN                
+reyk	Reykjavik                                    	Iceland                         	338.0445	64.1388	93.1	BKG                
+riga	Riga                                         	Latvia                          	24.0587	56.9486	34.7	LUAI               
+rio2	Rio Grande                                   	Argentina                       	292.2489	-53.7855	32	GFZ Potsdam        
+riop	Riobamba                                     	Ecuador                         	281.3489	-1.6506	2817.188	IG                 
+roap	San Fernando                                 	Spain                           	353.7937	36.4643	73.7	ROA                
+roch	Pinemeadow                                   	USA                             	243.39	33.61	1393.75	SIO                
+rock	Simi Valley                                  	USA                             	241.32	34.24	553.39	USGS               
+roth	Rothera Station                              	Antarctica                      	291.8743	-67.5714	39.793	NCL                
+salu	São Luis                                     	Brasil                          	315.7875	-2.5935	18.9	IBGE               
+sant	Santiago                                     	Chile                           	289.3314	-33.1503	723.0746	JPL                
+sask	Saskatoon                                    	Canada                          	253.6016	52.1963	580	NRCan/GSD          
+sass	Sassnitz Island of Ruegen                    	Germany                         	13.6433	54.5136	68.2	BKG                
+savo	Salvador                                     	Brasil                          	321.5677	-12.9392	76.3	IBGE               
+sch2	SCHEFFERVILLE                                	CANADA                          	293.1674	54.8321	498.18	NRCan              
+scip	San Clemente Island                          	USA                             	241.51	32.91	452.85	SIO                
+scor	Scoresbysund/Ittoqqoormiit                   	Greenland(Denmark)              	338.0497	70.4853	128.5	DNSC               
+scub	Santiago de Cuba                             	Cuba                            	284.2377	20.0121	21.95	GFZ                
+sele	Almaty                                       	Kazakstan                       	77.0168	43.1791	1340	JPL                
+sey1	La Misere                                    	Seychelles                      	55.4794	-4.6737	537.9123	JPL                
+sfdm	Piru                                         	USA                             	241.25	34.46	291.5	UNAVCO             
+sfer	San Fernando                                 	Spain                           	353.7944	36.4643	85.8	ROA                
+shao	Sheshan                                      	China                           	121.2004	31.0996	22.0901	JPL                
+she2	Shediac                                      	Canada                          	295.448	46.2207	-15.3	NRCan/GSD          
+simo	Simonstown                                   	South Africa                    	18.4396	-34.1879	39.491	HRAO               
+sio3	La Jolla                                     	USA                             	242.75	32.86	34.88	SIO                
+slor	San Lorenzo                                  	Honduras                        	272.5635	13.4239	11.995	IGN-HO             
+sni1	San Nicolas Island                           	USA                             	240.48	33.25	239.69	USGS               
+sofi	Sofia                                        	Bulgaria                        	23.3947	42.5561	1119.6	BKG                
+sola	Solar Village                                	Saudi Arabia                    	46.4006	24.9107	760.1393	JPL                
+spk1	Saddle Peak                                  	USA                             	241.35	34.06	440.14	USGS               
+spt0	Boras                                        	Sweden                          	12.8913	57.715	219.9	LM                 
+ssia	San Salvador                                 	El Salvador                     	270.8838	13.6973	664.4	CNR                
+stjo	ST. JOHN'S                                   	CANADA                          	307.3223	47.5952	152.8	NRCan              
+stk2	Shintotsukawa                                	Japan                           	141.8448	43.5286	118.54	GSI                
+str1	Canberra                                     	Australia                       	149.01	-35.3155	800.0394	GA                 
+str2	Canberra                                     	Australia                       	149.0169	-35.5319	799.954	GA                 
+sulp	Lviv                                         	Ukraine                         	24.0145	49.8356	370.5	RIGC               
+sunm	BRISBANE                                    	AUSTRALIA                       	153.0352	-27.4849	92	  NR&M                       
+suth	Sutherland                                   	South Africa                    	20.8105	-32.3802	1799.7659	HRAO               
+sutm	Sutherland                                   	South Africa                    	20.8109	-32.3814	1797.6	GFZ Potsdam        
+sutv	Sutherland                                   	South Africa                    	20.8105	-32.3802	1799.7659	HRAO               
+suva	Suva                                         	Fiji                            	178.4252	-18.1459	73	PGPSF              
+suwn	Suwon-shi                                    	Korea                           	127.0542	37.2755	83.9322	NGII               
+svtl	Svetloe                                      	Russia                          	29.7809	60.5329	77.1	IAA                
+sydn	Sydney                                       	Australia                       	151.1504	-33.7809	85.613	GA                 
+syog	East Ongle Island                            	Antarctica                      	39.5837	-69.007	50.0902	GSI                
+tabl	Wrightwood                                   	USA                             	242.32	34.38	2228.03	USGS               
+tah1	Papeete                                      	Tahiti                          	210.3938	-17.577	99.927	NGA                
+tah2	Papeete                                      	Tahiti                          	210.3938	-17.577	99.927	NGA                
+tcms	Hsinchu                                      	Republic of China               	120.9874	24.798	77.2607	NML                
+tehn	TEHRAN                                       	IRAN                            	51.3341	35.6973	1194.57	NCC                
+tgcv	Palmeira                                     	Republic of Cape Verde          	337.0172	16.7548	35	PGPSF              
+thti	Papeete                                      	"Tahiti, French Polynesia        "	210.3937	-17.5769	98.04	CNES               
+thu2	Thule Airbase                                	Greenland(Denmark)              	291.175	76.537	36.1	NSI                
+thu3	Thule Airbase                                	Greenland                       	291.175	76.537	36.1	DNSC               
+tid1	(Near) Canberra                              	Australia                       	148.98	-35.3992	665.44	GA                 
+tid2	Tidbinbilla                                  	Australia                       	148.98	-35.3992	665.3719	JPL                
+tidb	Tidbinbilla                                  	Australia                       	148.98	-35.3992	665.3719	JPL                
+titz	Titz                                         	Germany                         	6.4316	51.0353	155.6	BKG                
+tixi	Tixi                                         	Russian Federation              	128.8664	71.6345	46.9847	SST YEMSP GS SB RAS
+tixj	Tixi                                        	Russian Federation              	128.8664	71.6345	47.0509	SST YEMSP GS SB RAS        
+tlse	Toulouse                                     	France                          	1.4808	43.5607	211.6	CNES               
+tnml	Hsinchu                                      	Republic of China               	120.9873	24.798	75.8599	NML                
+torp	Torrance                                     	USA                             	241.67	33.8	-5.2	USGS               
+tow2	Cape Ferguson                                	Australia                       	147.0557	-19.2693	88.2349	GA                 
+trab	Trabzon                                      	Turkey                          	39.7756	40.9947	99.2	BKG                
+trak	Irvine                                       	USA                             	242.2	33.62	116.27	SIO                
+tro1	Tromsoe                                      	Norway                          	18.9396	69.6627	138	Kartverket         
+trom	Tromsoe                                     	Norway                          	18.9383	69.6639	132	NMA                        
+tsk2	Tsukuba                                      	Japan                           	140.0871	36.1056	69.93	GSI                
+tskb	Tsukuba                                      	Japan                           	140.0875	36.1057	67.3	GSI                
+tubi	Gebze                                        	TURKEY                          	29.4507	40.7867	221.831	TUBITAK            
+tukt	Tuktoyaktuk                                  	Canada                          	227.0057	69.4382	1.54	NRCan/GSD          
+twtf	Taoyuan                                      	Republic of China               	121.1645	24.9536	203.122	TL                 
+uclp	Los Angeles                                  	USA                             	241.56	34.07	111.56	USGS               
+uclu	Ucluelet                                     	Canada                          	234.4584	48.9256	10	GSC                
+ufpr	Curitiba                                     	Brasil                          	310.769	-25.4484	925.8	IBGE               
+ulab	Ulaanbataar                                  	Mongolia                        	107.05	47.67	1611.7	GFZ                
+unbj	Fredericton                                  	Canada                          	293.3583	45.9502	22.75	UNB                
+unfe	FERRARA                                      	ITALY                           	11.5995	44.833	81.01	ASI                
+unsa	Salta                                        	Argentina                       	294.5924	-24.7275	1257.8	GFZ Potsdam        
+urum	Urumqi                                       	China                           	87.63	43.59	856.1	GFZ                
+usc1	Los Angeles                                  	USA                             	241.71	34.02	21.93	USGS               
+usn3	Washington                                   	U.S.A.                          	282.9337	38.9206	57.519	USNO               
+usno	Washington                                   	USA                             	282.9338	38.919	48.888	USNO               
+usud	Usuda                                        	Japan                           	138.362	36.1331	1508.6193	JPL                
+uzhl	Uzhgorod                                     	Ukraine                         	22.2976	48.632	232	MAO                
+vacs	Vacoas                                       	Mauritius                       	57.497	-20.2971	420.4	JPL                
+vald	VAL D'OR                                     	CANADA                          	282.4358	48.0971	312.8	NRCan/GFZ          
+valp	Valparaiso                                   	Chile                           	288.3739	-33.0272	31	G2                 
+vesl	Vesleskarvet                                 	Antarctica                      	357.1583	-71.6738	862.4	HartRAO            
+vill	Villafranca                                  	Spain                           	356.048	40.4436	647.5	ESOC               
+vis0	Visby                                        	Sweden                          	18.3673	57.6539	79.8	LMV                
+vndp	Vandenberg Air Force Base                    	USA                             	239.38	34.56	-11.51	UNAVCO             
+wab2	Wabern                                       	Switzerland                     	7.4642	46.9237	611	METAS              
+warn	Rostock-Warnemuende                          	Germany                         	12.1014	54.1698	50.7	BKG                
+wdc3	Washington D.C.                              	USA                             	282.9337	38.9206	57.872	NGA                
+wdc4	Washington D.C.                              	USA                             	282.9337	38.9206	57.872	NGA                
+wel1	Wellington                                   	New Zealand                     	174.7787	-41.2726	46.9	NGA                
+wel2	Wellington                                   	New Zealand                     	174.7787	-41.2726	46.9	NGA                
+wes2	Westford                                     	USA                             	288.506	42.613	86.017	NOAA-NGS           
+wgtn	Wellington                                   	New Zealand                     	174.8059	-41.3235	26.06	GNS                
+whc1	Whittier                                     	USA                             	241.97	33.98	94.28	USGS               
+whit	WHITEHORSE                                   	CANADA                          	224.7779	60.7505	1427	NRCan              
+widc	Sky Valley                                   	USA                             	243.61	33.93	445.04	USGS               
+will	Williams Lake                                	Canada                          	237.8322	52.2369	1096	GSC                
+wind	Windhoek                                     	Namibia                         	17.0894	-22.5749	1734.7	GFZ                
+wlsn	Mt. Wilson                                   	USA                             	241.94	34.23	1705.27	USGS               
+wroc	Wroclaw                                      	Poland                          	17.0619	51.1131	181	IGG WUELS          
+wslr	Whistler                                     	Canada                          	237.0788	50.1265	909	GSC                
+wsrt	Westerbork                                   	The Netherlands                 	6.6045	52.9146	86	DUT                
+wtza	Bad Koetzting                                	Germany                         	12.8789	49.1442	666	BKG                
+wtzj	Bad Koetzting                               	Germany                         	12.8789	49.1442	665.9	BKG                        
+wtzr	Bad Koetzting                                	Germany                         	12.8789	49.1442	666	BKG                
+wtzs	Bad Koetzting                                	Germany                         	12.8786	49.1448	663.4	BKG                
+wtzz	Bad Koetzting                                	Germany                         	12.8789	49.1442	665.9	BKG                
+wuhn	Wuhan City                                   	P.R. China                      	114.3573	30.5317	25.8	WHU                
+xian	Lintong                                      	P.R.C.                          	109.2215	34.3687	81.5686	CAS-JPL            
+xmis	Christmas Island Indian Ocean                	Australia                       	105.6885	-10.45	261.5919	GA                 
+yakt	Yakutsk                                      	Russian Federation              	129.6803	62.031	103.37	RDAAC-IRIS         
+yakz	Yakutsk                                      	Russian Federation              	129.681	62.031	100.0644	RDAAC-IRIS         
+yar2	Dongara                                      	Australia                       	115.347	-29.0466	241.2967	GA                 
+yarr	Dongara                                      	Australia                       	115.347	-29.0466	241.382	GA                 
+yebe	Yebes                                        	Spain                           	356.9114	40.5249	973	IGN-E              
+yell	YELLOWKNIFE                                  	CANADA                          	245.5193	62.4809	181	NRCan              
+yibl	Yibal                                        	Oman                            	56.1123	22.1865	95.1	PDO                
+ykro	Yamoussoukro                                 	Cote d'Ivorie                   	354.7599	6.8706	270	JPL                
+yssk	Yuzhno-Sakhalinsk                            	Russian Federation              	142.7167	47.0297	91.2887	RDAAC-IRIS         
+zamb	Lusaka                                       	Zambia                          	28.311	-15.4255	1324.9144	HRAO               
+zeck	Zelenchukskaya                               	Russian Federation              	41.5651	43.2884	1166.8	BKG                
+zim2	Zimmerwald                                   	Switzerland                     	7.465	46.8771	956.4	swisstopo          
+zimj	Zimmerwald                                   	Switzerland                     	7.4651	46.8771	954.3	AIUB               
+zimm	Zimmerwald                                   	Switzerland                     	7.4653	46.8771	956.7	AIUB               
+zwe2	Zwenigorod                                   	Russia                          	36.76	55.7	272	GFZ                
+bdry	BoundaryLake	WA	-0.0215	0.0136 	10	GARNER 
+cncr	Concrete	USA	-121.7492 	48.5387	10	GARNER 
+cwak	Chilliwak	Canada	-0.0228	0.0137	10	GARNER 
+ephr	Ephrata	WA	-0.0221	0.0131	10	GARNER 
+geti	Tumpat	Malaysia	102.1055	6.2262	-0.5000	GARNER 	
