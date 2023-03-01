@@ -2,16 +2,6 @@
 
 Software package to calculate strain tensor parameters
 
-[![License MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/DSOlab/StrainTool/blob/dev-danast/LICENSE)
-[![Build Status](https://api.travis-ci.com/DSOlab/StrainTool.svg?branch=travis_patch)](https://app.travis-ci.com/github/DSOlab/StrainTool)
-[![](https://img.shields.io/github/release/DSOlab/StrainTool.svg)](https://github.com/DSOlab/StrainTool/releases/latest)
-[![](https://img.shields.io/github/tag/DSOlab/StrainTool.svg)](https://github.com/DSOlab/StrainTool/tags) 
-[![](https://img.shields.io/github/stars/DSOlab/StrainTool.svg)](https://github.com/DSOlab/StrainTool/stargazers)
-[![](https://img.shields.io/github/forks/DSOlab/StrainTool.svg)](https://github.com/DSOlab/StrainTool/network)
-[![](https://img.shields.io/github/issues/DSOlab/StrainTool.svg)](https://github.com/DSOlab/StrainTool/issues)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1297565.svg)](https://doi.org/10.5281/zenodo.1297565)
-# General
 
 StrainTool allows the estimation of Strain Tensor parameters, on the earth's crust, given a list of data point, aka points on the earth along with their tectonic velocities.
 
