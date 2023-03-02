@@ -1,6 +1,6 @@
-# StrainTool
+# Strain
 
-Software package to calculate strain tensor parameters
+
 
 
 StrainTool allows the estimation of Strain Tensor parameters, on the earth's crust, given a list of data point, aka points on the earth along with their tectonic velocities.
@@ -15,8 +15,7 @@ A first application of the software with EUREF data was presented in EGU2019 (An
 
 ## pystrain Package
 
-`pystrain` is a package written in [python](https://www.python.org/), defining a variety of functions, classes, etc to enable the computation of strain tensors.
-
+`
 When installing this package, all of its modules will be available to the user. It is the _core_ part of the project and should be installed before the main program (`StrainTensor.py`) can be used.
 
 The package is found under `StrainTool/pystrain`
@@ -31,27 +30,13 @@ This program does not need installation; it is just a pyrhon script. The user ma
 
 ## Plot Tools
 
-By 'Plot Tools', we mean an array of shell ([Bash](https://www.gnu.org/software/bash/)) scripts that can be used to plot `StrainTensor.py` results. These scripts actualy use [GMT](http://gmt.soest.hawaii.edu/) to perform the plotting. The scripts are efficient, ready-to-use.
+By 'Plot Tools', we mean an array of shell  scripts that can be used to plot `StrainTensor.py` results. These scripts actualy use  to perform the plotting. The scripts are efficient, ready-to-use.
 
 It is by no means mandatory to use these scripts to plot the results; users can use their own tools and/or scripts to do so. Actually, this is a totaly independent part of the Project and can be skipped alltogether.
 
 These scripts, are found under `StrainTool/plot`
 
-# Installation
 
-## Prerequisites
-
-To install the Project, you will need:
-
-*   [python](https://www.python.org/downloads/); the installation has been tested under Versions 2.7 and 3.6 and both work fine.
-*   [NumPy](http://www.numpy.org/); NumPy is the fundamental package for scientific computing with Python.
-*   [SciPy](https://www.scipy.org/); SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering. Actually, we are only using the [SciPy.linalg](https://docs.scipy.org/doc/scipy/reference/linalg.html) and [SciPy.spatial](https://docs.scipy.org/doc/scipy/reference/spatial.html) modules.
-
-Both `NumPy` and `SciPy` have extended installation guides for most, if not all, operating systems.
-
-To use the [Plot Tools](#plot_tools_pck) bundle, you must have [GMT](http://gmt.soest.hawaii.edu/) (> 5.0.0) installed, along with a variety of UNIX-based tools. If you are on a UNIX/Linux operating system, most or all of them are pre-installed.
-
-## Installation Procedure
 
 To install the Project, you actualy only need to install the [pystrain](pystrain_pkg) package. What this means, is that python will see that the package modules are build and extracted to a suitable folder on your local system (something like `/usr/lib/python2.7/site-packages/` on a UNIX-like system). After this step, you will be able to make use of the modules in the package, both for running `StrainTool.py` and for any new program you may wish to code. [StrainTensor.py](#straintensor_prg) and [Plot Tools](#plot_tools_pck) are programs, so you do not to "install" them.
 
@@ -291,61 +276,12 @@ For example, to plot the principal axis fo strain rates for the example case abo
    -h | --help: help panel
 	</pre>
 
-    $> ./plotall.sh -p test -s test2
 
 	
 
-## Significant Bugs Fixed
-**v1.0-rc2.0** The calculation of second invariant was corrected due to a mistake in the previous version (v1.0-rc1.0))
 
 
-## Contributing
-
-1. Create an issue and describe your idea
-2. [Fork it](https://github.com/DSOlab/StrainTool/network#fork-destination-box)
-3. Create your feature branch (`git checkout -b my-new-idea`)
-4. Commit your changes (`git commit -am 'Add some feature'`)
-5. Publish the branch (`git push origin my-new-idea`)
-6. Create a new Pull Request
-7. Profit! :white_check_mark:
 
 
-## License
-The work is licensed under [MIT-license](LICENSE)
 
-
-## Authors & Bug Reports
-**Dimitrios G. Anastasiou**
-> Dr. Rural & Surveying Engineer | Dionysos Satellite Observatory - NTUA | dganastasiou@gmail.com
-
-**Xanthos Papanikolaou**
-> Rural & Surveying Engineer | Dionysos Satellite Observatory - NTUA | [xanthos@mail.ntua.gr](mailto:xanthos@mail.ntua.gr)
-
-**Dr. Athanassios Ganas**
-> Research Director | Institute of Geodynamics | National Observatory of Athens | [aganas@gein.noa.gr](mailto:aganas@gein.noa.gr)
-
-**Prof. Demitris Paradissis**
-> Professor NTUA |  Dionysos Satellite Observatory - NTUA | [dempar@central.ntua.gr](dempar@central.ntua.gr)
-
-## ChangeLog
-
-The history of releases can be viewed at [ChangeLog](.github/CHANGELOG.md)
-
-## Acknowlegments
-**EPOS IP - EPOS Implementation Phase**
-
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N° 676564
-
-Disclaimer: the content of this website reflects only the author’s view and the Commission is not responsible for any use that may be made of the information it contains.
-
-## References
-* Anastasiou D., Ganas A., Legrand J., Bruyninx C., Papanikolaou X., Tsironi V. and Kapetanidis V. (2019). Tectonic strain distribution over Europe from EPN data. EGU General Assembly 2019, Geophysical Research Abstracts, Vol. 21, EGU2019-17744-1 [Abstract](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-17744-1.pdf)
-
-* Shen, Z.-K., M. Wang, Y. Zeng, and F. Wang, (2015), Strain determination using spatially discrete geodetic data, Bull. Seismol. Soc. Am., 105(4), 2117-2127, doi: 10.1785/0120140247
-
-* Veis, G., Billiris, H., Nakos, B., and Paradissis, D. (1992), Tectonic strain in greece from geodetic measurements, C.R.Acad.Sci.Athens, 67:129--166
-
-* Python Software Foundation. Python Language Reference, version 2.7. Available at http://www.python.org
-
-* [The Generic Mapping Tools - GMT](http://gmt.soest.hawaii.edu/)
 
